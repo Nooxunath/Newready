@@ -1,0 +1,423 @@
+# Translation of Plugins - Hustle Marketing, Social Share, Email Opt-in Form, and Popup Plugin - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Hustle Marketing, Social Share, Email Opt-in Form, and Popup Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-19 10:21:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Hustle Marketing, Social Share, Email Opt-in Form, and Popup Plugin - Stable (latest release)\n"
+
+#: lib/free-dashboard/module.php:406 lib/free-dashboard/module.php:446
+msgid "No thanks"
+msgstr "Non merci"
+
+#: lib/free-dashboard/module.php:402 lib/free-dashboard/module.php:438
+msgid "Thanks :)"
+msgstr "Merci :)"
+
+#: lib/free-dashboard/module.php:441
+msgid "Rate %s"
+msgstr "Évaluez %s"
+
+#: lib/wpmu-lib/inc/class-thelib-ui.php:535
+msgid "Dismiss this notice."
+msgstr "Ignorer ce message."
+
+#: opt-in-static.php:89
+msgid "Fading Exits"
+msgstr "Sorties avec disparition en fondu"
+
+#: opt-in-static.php:96
+msgid "Rotating Exits"
+msgstr "Sorties en rotation"
+
+#: lib/free-dashboard/module.php:386
+msgid "We're happy that you've chosen to install %s! Are you interested in how to make the most of this plugin? How would you like a quick 5 day email crash course with actionable advice on building your membership site? Only the info you want, no subscription!"
+msgstr "Nous sommes heureux que vous ayez choisi d’installer %s&nbsp;! Êtes-vous intéressé par savoir comment utiliser cette extension&nbsp;? Souhaiteriez-vous une formation accélérée de 5 jours par email avec des conseils pour construire un site avec espace membres&nbsp;? Seulement si vous le voulez, sans abonnement&nbsp;!"
+
+#: opt-in-static.php:109
+msgid "Zoom Exits"
+msgstr "Sorties de zoom"
+
+#: opt-in-static.php:82
+msgid "Bouncing Exits"
+msgstr "Sorties avec rebond"
+
+#: views/admin/settings/providers-edit.php:20
+#: views/admin/dashboard/modules/module-popup.php:27
+#: views/admin/dashboard/modules/module-slidein.php:28
+#: views/admin/dashboard/modules/module-shortcode.php:28
+#: views/admin/commons/wizard/manage-form-fields.php:36
+#: views/admin/commons/wizard/manage-form-fields.php:133
+#: inc/providers/gutenberg/blocks/block-embeds.php:111
+#: inc/providers/gutenberg/blocks/block-popup-trigger.php:119
+#: inc/providers/gutenberg/blocks/block-slidein-trigger.php:119
+#: inc/providers/gutenberg/blocks/block-social-share.php:113
+msgid "Name"
+msgstr "Nom"
+
+#: views/admin/settings/widget-mail.php:45
+#: views/admin/settings/widget-recaptcha.php:40
+#: views/admin/settings/widget-unsubscribe.php:151
+#: views/admin/settings/widget-unsubscribe.php:410
+msgid "Save"
+msgstr "Enregistrer"
+
+#: assets/shared-ui/plugin-ui.php:272 lib/free-dashboard/module.php:405
+#: lib/free-dashboard/module.php:445
+msgid "Saving"
+msgstr "Enregistrement en cours"
+
+#: views/admin/embedded/listing.php:227 views/admin/sshare/listing.php:186
+#: views/admin/sshare/wizard/boxes/box-shortcode.php:67
+msgid "Shortcode"
+msgstr "Code court"
+
+#: views/admin/settings/display-triggers.php:94
+#: views/admin/settings/display-triggers.php:224
+msgid "Minutes"
+msgstr "Minutes"
+
+#: views/admin/settings/display-triggers.php:93
+#: views/admin/settings/display-triggers.php:223
+msgid "Seconds"
+msgstr "Secondes"
+
+#: opt-in-static.php:55
+msgid "Zoom Entrances"
+msgstr "Entrées de zoom"
+
+#: inc/hustle-module-admin.php:315 inc/hustle-module-admin.php:337
+msgid "From a search engine"
+msgstr "Depuis un moteur de recherche"
+
+#: inc/hustle-module-admin.php:312 inc/hustle-module-admin.php:334
+msgid "From a specific referrer"
+msgstr "Depuis un référant spécifique"
+
+#: inc/hustle-module-admin.php:313 inc/hustle-module-admin.php:335
+msgid "Not from a specific referrer"
+msgstr "Pas depuis un référant spécifique"
+
+#: inc/hustle-module-admin.php:314 inc/hustle-module-admin.php:336
+msgid "Not from an internal link"
+msgstr "Pas depuis un lien interne"
+
+#: inc/hustle-module-admin.php:311 inc/hustle-module-admin.php:333
+msgid "Not on mobile devices"
+msgstr "Pas sur périphérique mobile"
+
+#: inc/hustle-module-admin.php:317
+msgid "Not on specific URL"
+msgstr "Pas sur une URL spécifique"
+
+#: views/admin/settings/conditions.php:141
+msgid "Not on these URLs (one per line):"
+msgstr "Pas sur une de ces URLs (une par ligne)&nbsp;:"
+
+#: inc/hustle-module-admin.php:316
+msgid "On specific URL"
+msgstr "Sur l’URL spécifique"
+
+#: inc/hustle-module-admin.php:310 inc/hustle-module-admin.php:332
+msgid "Only on mobile devices"
+msgstr "Seulement sur périphérique mobile"
+
+#: views/admin/settings/conditions.php:85
+#: views/admin/settings/conditions.php:103
+msgid "Referrers. Can be full URL or a pattern like \".example.com\" (one per line):"
+msgstr "Référants. Peut être une URL complète ou une formule comme « .exemple.com » (une par ligne)&nbsp;:"
+
+#: inc/hustle-module-admin.php:318 inc/hustle-module-admin.php:340
+msgid "Visitor has commented before"
+msgstr "Le visiteur a commenté précédemment"
+
+#: inc/hustle-module-admin.php:319 inc/hustle-module-admin.php:341
+msgid "Visitor has never commented"
+msgstr "Le visiteur n’a jamais commenté précédemment"
+
+#: inc/hustle-module-admin.php:307
+msgid "Visitor is logged in"
+msgstr "Le visiteur est connecté"
+
+#: views/admin/settings/conditions.php:125
+#: views/admin/settings/conditions.php:145
+msgid "URLs should not include \"http://\" or \"https://\""
+msgstr "Les URL ne devraient pas include http:// ou https://"
+
+#: views/admin/settings/conditions.php:121
+msgid "Show on these URLs (one per line):"
+msgstr "Afficher sur ces URL (une par ligne)&nbsp;:"
+
+#: views/admin/settings/welcome.php:5 views/admin/settings.php:17
+#: inc/hustle-settings-admin.php:38 inc/hustle-module-admin.php:653
+msgid "Settings"
+msgstr "Réglages"
+
+#: views/admin/sshare/wizard/boxes/box-behaviour.php:17
+msgid "Default"
+msgstr "Valeur par défaut"
+
+#: views/admin/new-optin_success.php:45
+msgid "Active"
+msgstr "Actif"
+
+#: views/admin/settings/providers-edit.php:64
+#: views/admin/dashboard/modules/module-popup.php:65
+#: views/admin/dashboard/modules/module-slidein.php:66
+#: views/admin/dashboard/modules/module-shortcode.php:128
+#: views/admin/embedded/listing.php:84 views/admin/sshare/listing.php:70
+msgid "Edit"
+msgstr "Modifier"
+
+#: views/admin/sshare/wizard/boxes/box-shortcode.php:56
+msgid "Appearance"
+msgstr "Apparence"
+
+#: opt-in-static.php:24
+msgid "Bouncing Entrances"
+msgstr "Entrées de rebond"
+
+#: opt-in-static.php:31
+msgid "Fading Entrances"
+msgstr "Apparition en fondu"
+
+#: opt-in-static.php:42
+msgid "Rotating Entrances"
+msgstr "Entrée avec rotation"
+
+#. Author of the plugin
+msgid "WPMU DEV"
+msgstr "WPMU DEV"
+
+#: views/admin/popup/wizard/boxes/box-additional.php:29
+#: views/admin/embedded/wizard/boxes/box-additional.php:26
+#: views/admin/slidein/wizard/boxes/box-closing.php:70
+msgid "days"
+msgstr "jours"
+
+#: views/admin/popup/listing.php:225 views/admin/embedded/listing.php:129
+#: views/admin/slidein/listing.php:225 views/admin/sshare/listing.php:89
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: opt-in-static.php:60 views/admin/popup/wizard/boxes/box-animation.php:40
+#: views/admin/embedded/wizard/boxes/box-animation.php:40
+msgid "Zoom In Left"
+msgstr "Zoom avant par la gauche"
+
+#: opt-in-static.php:58 views/admin/popup/wizard/boxes/box-animation.php:38
+#: views/admin/embedded/wizard/boxes/box-animation.php:38
+msgid "Zoom In Right"
+msgstr "Zoom avant par la droite"
+
+#: opt-in-static.php:57 views/admin/popup/wizard/boxes/box-animation.php:37
+#: views/admin/embedded/wizard/boxes/box-animation.php:37
+msgid "Zoom In Up"
+msgstr "Zoom avant par le haut"
+
+#: opt-in-static.php:83 views/admin/popup/wizard/boxes/box-animation.php:50
+msgid "Bounce Out"
+msgstr "Rebond sortant"
+
+#: opt-in-static.php:86 views/admin/popup/wizard/boxes/box-animation.php:53
+msgid "Bounce Out Down"
+msgstr "Rebond sortant vers le bas"
+
+#: opt-in-static.php:87 views/admin/popup/wizard/boxes/box-animation.php:54
+msgid "Bounce Out Left"
+msgstr "Rebond sortant vers la gauche"
+
+#: opt-in-static.php:85 views/admin/popup/wizard/boxes/box-animation.php:52
+msgid "Bounce Out Right"
+msgstr "Rebond sortant vers la droite"
+
+#: opt-in-static.php:84 views/admin/popup/wizard/boxes/box-animation.php:51
+msgid "Bounce Out Up"
+msgstr "Rebond sortant vers le haut"
+
+#: opt-in-static.php:90 views/admin/popup/wizard/boxes/box-animation.php:55
+msgid "Fade Out"
+msgstr "Disparition en fondu"
+
+#: opt-in-static.php:91 views/admin/popup/wizard/boxes/box-animation.php:56
+msgid "Fade Out Up"
+msgstr "Disparition en fondu vers le bas"
+
+#: opt-in-static.php:56 views/admin/popup/wizard/boxes/box-animation.php:36
+#: views/admin/embedded/wizard/boxes/box-animation.php:36
+msgid "Zoom In"
+msgstr "Zoom avant"
+
+#: opt-in-static.php:59 views/admin/popup/wizard/boxes/box-animation.php:39
+#: views/admin/embedded/wizard/boxes/box-animation.php:39
+msgid "Zoom In Down"
+msgstr "Zoom avant par le bas"
+
+#: opt-in-static.php:110 views/admin/popup/wizard/boxes/box-animation.php:69
+msgid "Zoom Out"
+msgstr "Zoom arrière"
+
+#: views/admin/popup/wizard/boxes/box-animation.php:73
+msgid "Zoom Out Left"
+msgstr "Zoom arrière par la gauche"
+
+#: opt-in-static.php:112 views/admin/popup/wizard/boxes/box-animation.php:71
+msgid "Zoom Out Right"
+msgstr "Zoom arrière par la droite"
+
+#: opt-in-static.php:111 views/admin/popup/wizard/boxes/box-animation.php:70
+msgid "Zoom Out Up"
+msgstr "Zoom arrière par le haut"
+
+#: opt-in-static.php:93 views/admin/popup/wizard/boxes/box-animation.php:58
+msgid "Fade Out Down"
+msgstr "Disparition en fondu par le bas"
+
+#: opt-in-static.php:94 views/admin/popup/wizard/boxes/box-animation.php:59
+msgid "Fade Out Left"
+msgstr "Disparition en fondu par la gauche"
+
+#: opt-in-static.php:92 views/admin/popup/wizard/boxes/box-animation.php:57
+msgid "Fade Out Right"
+msgstr "Disparition en fondu par la droite"
+
+#: opt-in-static.php:126 views/admin/popup/wizard/boxes/box-animation.php:75
+msgid "Light Speed Out"
+msgstr "Animation « Lightspeed » arrière"
+
+#: opt-in-static.php:72 views/admin/popup/wizard/boxes/box-animation.php:41
+#: views/admin/embedded/wizard/boxes/box-animation.php:41
+msgid "Roll In"
+msgstr "Roulement avant"
+
+#: opt-in-static.php:125 views/admin/popup/wizard/boxes/box-animation.php:74
+msgid "Roll Out"
+msgstr "Roulement arrière"
+
+#: opt-in-static.php:44 views/admin/popup/wizard/boxes/box-animation.php:28
+#: views/admin/embedded/wizard/boxes/box-animation.php:28
+msgid "Rotate In Down Left"
+msgstr "Rotation avant par le bas gauche"
+
+#: opt-in-static.php:45 views/admin/popup/wizard/boxes/box-animation.php:29
+#: views/admin/embedded/wizard/boxes/box-animation.php:29
+msgid "Rotate In Down Right"
+msgstr "Rotation avant par le bas droite"
+
+#: opt-in-static.php:46 views/admin/popup/wizard/boxes/box-animation.php:30
+#: views/admin/embedded/wizard/boxes/box-animation.php:30
+msgid "Rotate In Up Left"
+msgstr "Rotation avant par le haut gauche"
+
+#: opt-in-static.php:47 views/admin/popup/wizard/boxes/box-animation.php:31
+#: views/admin/embedded/wizard/boxes/box-animation.php:31
+msgid "Rotate In Up Right"
+msgstr "Rotation avant par le haut droite"
+
+#: views/admin/popup/wizard/boxes/box-animation.php:60
+msgid "Rotate Out"
+msgstr "Rotation arrière"
+
+#: views/admin/popup/wizard/boxes/box-animation.php:63
+msgid "Rotate Out Down Left"
+msgstr "Rotation arrière par le bas gauche"
+
+#: views/admin/popup/wizard/boxes/box-animation.php:64
+msgid "Rotate Out Down Right"
+msgstr "Rotation arrière par le bas droite"
+
+#: views/admin/popup/wizard/boxes/box-animation.php:61
+msgid "Rotate Out Up Left"
+msgstr "Rotation arrière par le haut gauche"
+
+#: views/admin/popup/wizard/boxes/box-animation.php:62
+msgid "Rotate Out Up Right"
+msgstr "Rotation arrière par le haut droite"
+
+#: views/admin/popup/wizard/boxes/box-animation.php:72
+msgid "Zoom Out Down"
+msgstr "Zoom arrière par le bas"
+
+#: opt-in-static.php:25 views/admin/popup/wizard/boxes/box-animation.php:17
+#: views/admin/embedded/wizard/boxes/box-animation.php:17
+msgid "Bounce In"
+msgstr "Rebond entrant"
+
+#: opt-in-static.php:28 views/admin/popup/wizard/boxes/box-animation.php:20
+#: views/admin/embedded/wizard/boxes/box-animation.php:20
+msgid "Bounce In Down"
+msgstr "Rebond entrant vers le bas"
+
+#: opt-in-static.php:29 views/admin/popup/wizard/boxes/box-animation.php:21
+#: views/admin/embedded/wizard/boxes/box-animation.php:21
+msgid "Bounce In Left"
+msgstr "Rebond entrant vers la gauche"
+
+#: opt-in-static.php:27 views/admin/popup/wizard/boxes/box-animation.php:19
+#: views/admin/embedded/wizard/boxes/box-animation.php:19
+msgid "Bounce In Right"
+msgstr "Rebond entrant vers la droite"
+
+#: opt-in-static.php:26 views/admin/popup/wizard/boxes/box-animation.php:18
+#: views/admin/embedded/wizard/boxes/box-animation.php:18
+msgid "Bounce In Up"
+msgstr "Rebond entrant vers le haut"
+
+#: views/admin/popup/wizard/boxes/box-style.php:19
+#: views/admin/embedded/wizard/boxes/box-style.php:19
+#: views/admin/slidein/wizard/boxes/box-style.php:19
+msgid "Cabriolet"
+msgstr "Cabriolet"
+
+#: opt-in-static.php:32 views/admin/popup/wizard/boxes/box-animation.php:22
+#: views/admin/embedded/wizard/boxes/box-animation.php:22
+msgid "Fade In"
+msgstr "Apparition en fondu"
+
+#: opt-in-static.php:35 views/admin/popup/wizard/boxes/box-animation.php:25
+#: views/admin/embedded/wizard/boxes/box-animation.php:25
+msgid "Fade In Down"
+msgstr "Apparition en fondu vers le bas"
+
+#: opt-in-static.php:36 views/admin/popup/wizard/boxes/box-animation.php:26
+#: views/admin/embedded/wizard/boxes/box-animation.php:26
+msgid "Fade In Left"
+msgstr "Apparition en fondu vers la gauche"
+
+#: opt-in-static.php:34 views/admin/popup/wizard/boxes/box-animation.php:24
+#: views/admin/embedded/wizard/boxes/box-animation.php:24
+msgid "Fade In Right"
+msgstr "Apparition en fondu vers la droite"
+
+#: views/admin/popup/wizard/boxes/box-style.php:18
+#: views/admin/embedded/wizard/boxes/box-style.php:18
+#: views/admin/slidein/wizard/boxes/box-style.php:18
+msgid "Minimal"
+msgstr "Minimal"
+
+#: views/admin/popup/wizard/boxes/box-style.php:17
+#: views/admin/embedded/wizard/boxes/box-style.php:17
+#: views/admin/slidein/wizard/boxes/box-style.php:17
+msgid "Simple"
+msgstr "Simple"
+
+#: opt-in-static.php:33 views/admin/popup/wizard/boxes/box-animation.php:23
+#: views/admin/embedded/wizard/boxes/box-animation.php:23
+msgid "Fade In Up"
+msgstr "Apparition en fondu par le haut"
+
+#: opt-in-static.php:73 views/admin/popup/wizard/boxes/box-animation.php:42
+#: views/admin/embedded/wizard/boxes/box-animation.php:42
+msgid "Light Speed In"
+msgstr "Animation « Lightspeed » avant"
+
+#: opt-in-static.php:43 opt-in-static.php:97
+#: views/admin/popup/wizard/boxes/box-animation.php:27
+#: views/admin/embedded/wizard/boxes/box-animation.php:27
+msgid "Rotate In"
+msgstr "Rotation avant"
